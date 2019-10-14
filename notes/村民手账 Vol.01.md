@@ -44,7 +44,7 @@ BTCU 社区（高校区块链技术社区）还是一个小众的社区，如果
 
 
 ## 1
-***
+
 **纽约客：加密大神眼中的区块链热潮与兴衰**  
 https://mp.weixin.qq.com/s/ugjMLrZqWjsXa-Vj2S9ezA
 
@@ -55,7 +55,7 @@ https://mp.weixin.qq.com/s/ugjMLrZqWjsXa-Vj2S9ezA
 
 
 ## 2
-***
+
 **比特币二十年后是什么样？**  
 
 https://mp.weixin.qq.com/s/u9JHyT5q4OyZGF3zQcX4-g
@@ -65,7 +65,7 @@ https://mp.weixin.qq.com/s/u9JHyT5q4OyZGF3zQcX4-g
 针对二十年后加密货币世界的预言。以技术迭代发展的历史观类比分析了区块链技术的潜在价值，也批判了当下许多人对于区块链技术的短视。提出了区块链泡沫破裂（预言已成现实）、政府主导加密货币的繁荣、公链协议层与加密货币结算层分离等多个维度的预言。文章极具前瞻性，诠释了了区块链技术背后蕴含的世界观。作者对于人类社会发展变革的思考也很有学习价值。
 
 ## 3
-***
+
 **DeFi精选：2019不可绕开的区块链话题**  
 
 https://www.chainnews.com/articles/989152344636.htm?from=timeline&isappinstalled=0  
@@ -84,7 +84,7 @@ https://www.chainnews.com/articles/989152344636.htm?from=timeline&isappinstalled
 
 
 ## 4
-***
+
 **姚前演讲全文：数字资产和数字金融**  
 
 https://mp.weixin.qq.com/s/hh9Xznv70aIv742Avl0o1g
@@ -96,7 +96,7 @@ https://mp.weixin.qq.com/s/hh9Xznv70aIv742Avl0o1g
 
 
 ## 5
-***
+
 **肖风万向峰会闭幕演讲全文：由Libra引起的思考**  
 
 https://mp.weixin.qq.com/s/AiTfzawWUAufyUCFJmws6g
@@ -113,7 +113,7 @@ https://mp.weixin.qq.com/s/AiTfzawWUAufyUCFJmws6g
 企业的角度，花了很多时间论述数字化技术的特点，论证区块链将改变商业模式、重构商业的底层逻辑，大篇幅的描绘了区块链技术下的世界，经济形态，其中，肖总从企业家的角度谈了股东利益最大化的衰落和社会福利最大化的兴起，区块链解决了激励相容的问题，社会福利最大化是我们社会的未来，区块链技术也是一个为了促成社会福利最大化的技术。
 
 ## 6
-***
+
 **FineGrained, Secure and Efficient Data Provenance on Blockchain Systems**  
 
 https://pan.baidu.com/s/1WwNtpkDXRmbZwJ3e7ivf0Q  密码:2rkt  
@@ -128,7 +128,7 @@ https://pan.baidu.com/s/1WwNtpkDXRmbZwJ3e7ivf0Q  密码:2rkt
 
 
 ## 7
-***
+
 **区块链开发权威指南**  
 
 https://mp.weixin.qq.com/s/RDl6QD6b3DSj_MJqPF6wlA
@@ -141,8 +141,6 @@ https://mp.weixin.qq.com/s/RDl6QD6b3DSj_MJqPF6wlA
 
 
 ***
-***
-
 
 我们很喜欢橙皮书和他们的《预言家周报》。区块链世界不只有预言家发言，也需要更多的“村民”发言。
 
