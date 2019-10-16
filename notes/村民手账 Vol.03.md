@@ -16,7 +16,7 @@ BTCU社区里，由中科大牵头，上交、南大、武大、北邮的技术�
 
 
 
-我能体会他们所说的“酷”点，不只在于做课的辛苦，更在于这个课分布式研发的模式。
+我能体会他们所说的**“酷”点**，不只在于做课的辛苦，更在于这个课**分布式研发的模式**。
 
 
 
@@ -24,16 +24,12 @@ BTCU社区的主旨是技术普及、人才培养，所以做课一直是我们�
 
 
 
-①基础知识；
-
-②公链（BTC、ETH）+联盟链（Fabric）；
-
-③开放式接口：第三方外部课程
+* ①基础知识；
+* ②公链（BTC、ETH）+联盟链（Fabric）；
+* ③开放式接口：第三方外部课程
 
 
-
-
-
+![together](../images/03-002.webp)
 BTCU社区北京大本营，北京高校区块链协会负责人们小聚
 
 
@@ -42,11 +38,11 @@ BTCU社区北京大本营，北京高校区块链协会负责人们小聚
 
 
 
-我看到这样的模式，第一时间就想到了ETH 2.0 Casper协议升级：Casper FFG与 Casper CBC，分别由Vitalik和Vlad两位大“V”牵头两个团队，并行研发，一个适用于过渡阶段，一个适用于稳定阶段。他们与以太坊的开发者生态一起，构成了强大生命力的以太坊。
+我看到这样的模式，第一时间就想到了`ETH 2.0 Casper`协议升级：`Casper FFG`与 `Casper CBC`，分别由 **Vitalik** 和 **Vlad** 两位大“V”牵头两个团队，并行研发，一个适用于过渡阶段，一个适用于稳定阶段。他们与以太坊的开发者生态一起，构成了强大生命力的以太坊。
 
 
 
-这就是那个“酷”点。
+这就是那个**“酷”点**。
 
 
 
@@ -60,22 +56,21 @@ BTCU社区成立已经500余天，这样长的时间下才能逐渐磨合出这�
 
 
 
-感谢BTCU社区的小伙伴们过去一周的学习分享，本周也为大家带来了一周量的学习精读成果。今日是 村民手账 Vol.03，下面是为BTCU的村民们推荐的精选文章：
+感谢BTCU社区的小伙伴们过去一周的学习分享，本周也为大家带来了一周量的学习精读成果。今日是 **村民手账 Vol.03**，下面是为BTCU的村民们推荐的精选文章：
 
 
 
 
 
-1
+# 1
 
-
-Battle：比特币价值之争
+**Battle：比特币价值之争**
 
 所谓Battle是我们读到了相似话题、相反论点的文章，集中放在这里，阅读体验更加。
 
 
 
-A. 10年了，比特币的价值支撑到底是什么？
+**A. 10年了，比特币的价值支撑到底是什么？**
 
 https://mp.weixin.qq.com/s/wKJCXTrmhxZjt7_DakQI-w
 
@@ -91,7 +86,7 @@ https://mp.weixin.qq.com/s/wKJCXTrmhxZjt7_DakQI-w
 
 
 
-B. 以下几个原因都会导致比特币最终覆灭，减半前你清醒一点
+**B. 以下几个原因都会导致比特币最终覆灭，减半前你清醒一点**
 
 https://mp.weixin.qq.com/s/7eKH9Ili1p9FiV7r5haoKQ
 
@@ -106,11 +101,11 @@ https://mp.weixin.qq.com/s/7eKH9Ili1p9FiV7r5haoKQ
 
 
 
-2
+## 2
 
 
 
-如何把一个区块链项目做到上百亿的市值？
+**如何把一个区块链项目做到上百亿的市值？**
 https://mp.weixin.qq.com/s/JZe57Mm28LiCafF4uVQhXw
 
 
@@ -128,11 +123,11 @@ https://mp.weixin.qq.com/s/JZe57Mm28LiCafF4uVQhXw
 
 
 
-3
+## 3
 
 
 
-DeFi 成了以太坊的护城河，其它公链还有差异化竞争的空间吗？
+**DeFi 成了以太坊的护城河，其它公链还有差异化竞争的空间吗？**
 
 https://www.chainnews.com/articles/038653627144.htm
 
@@ -152,11 +147,11 @@ https://www.chainnews.com/articles/038653627144.htm
 
 
 
-4
+# 4
 
 
 
-论文：《A Cross-Chain Solution to Integrating Multiple Blockchains for IoT Data Management》
+**论文：《A Cross-Chain Solution to Integrating Multiple Blockchains for IoT Data Management》**
 
 https://github.com/btcu-pro/File-Warehouse
 
@@ -182,11 +177,11 @@ Tangle（缠结）基于定向非循环图的（DAG），而不是一种连续�
 
 
 
-5
+## 5
 
 
 
-电子书资源：《精通比特币》、《精通以太坊》
+**电子书资源：《精通比特币》、《精通以太坊》**
 
 https://github.com/btcu-pro/File-Warehouse
 
@@ -209,9 +204,6 @@ https://github.com/btcu-pro/File-Warehouse
 
 我们很喜欢橙皮书和他们的《预言家周报》。区块链世界不只有预言家发言，也需要更多的“村民”发言。
 
-
-
-## 1
 
 
 
