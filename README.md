@@ -52,5 +52,21 @@
   - [论文：A framework for secure and decentralized sharing of medical imaging data via blockchain consensus](notes/村民手账&#32;Vol.06.md#11)
   - [让我们建一座巴别塔，塔顶终将通天](notes/村民手账&#32;Vol.06.md#12)
   - [Coinbase特稿：11张图详诉比特币11年发展史](notes/村民手账&#32;Vol.06.md#13)
+- [建设社区如此困难，何谈归还社区？| 村民手账 Vol.07](notes/村民手账&#32;Vol.07.md)
+  - [2018年中国区块链产业白皮书（工信部出版）](notes/村民手账&#32;Vol.07.md#1)
+  - [实锤！中国自己的数字货币DCEP！](notes/村民手账&#32;Vol.07.md#2)
+  - [科普 | 以太坊上的隐私保护技术](notes/村民手账&#32;Vol.07.md#3)
+  - [区块链逆袭时刻的冷思考](notes/村民手账&#32;Vol.07.md#4)
+  - [Libra到了“最危险的时刻”？谁能救小扎？](notes/村民手账&#32;Vol.07.md#5)
+  - [Is Bitcoin really un-tethered ?](notes/村民手账&#32;Vol.07.md#6)
+  - [播客：和 Parity 的唐威聊聊区块链编程](notes/村民手账&#32;Vol.07.md#7)
+- [公链应用已死?什么是发展方向? | 村民手账 Vol.08](notes/村民手账&#32;Vol.08.md)
+  - [区块链改造组织信任](notes/村民手账&#32;Vol.08.md#1)
+  - [Facebook Libra架构设计这么荒谬，凭什么还要坚持发行](notes/村民手账&#32;Vol.08.md#2)
+  - [区块链安全入门笔记(完结篇) | 慢雾科普](notes/村民手账&#32;Vol.08.md#3)
+  - [为什么 ENS 不创建更多顶级域：我们是在对全球域名空间负责](notes/村民手账&#32;Vol.08.md#4)
+  - [以太坊经济模型“廉颇老矣”，公链新模型花落谁家](notes/村民手账&#32;Vol.08.md#5)
+
+
 ## 说明
 村民手账每周推荐一些区块链行业的一些文章，论文，书籍等。
