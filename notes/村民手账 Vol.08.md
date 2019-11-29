@@ -8,7 +8,7 @@
 
 
 
-是，最近明星项目Nervos主网上线，紧随其后的还会有波卡、Filecoin、ETH 2.0、Conflux、Solana，都是当年的大热项目，世界上又多了一本开放给所有人准入的公开账本，但是谁在使用账本？看一看公链实际运行的TPS就够了，现阶段真的毫无必要忧虑区块链的性能有多低，TPS达到上千上万没有意义，因为以太坊的TPS是10，EOS是100，TRON是20，其它的公链就更低了。我算了算有一条公链24h交易量折算下来TPS为2，为什么为2，因为它1s出两个块，每出一个块给节点发一次出块奖励...
+是，最近明星项目Nervos主网上线，紧随其后的还会有波卡、Filecoin、ETH 2.0、Conflux、Solana，都是当年的大热项目，世界上又多了一本开放给所有人准入的公开账本，但是谁在使用账本？看一看公链实际运行的TPS就够了，现阶段真的毫无必要忧虑区块链的性能有多低，TPS达到上千上万没有意义，因为以太坊的TPS是10，EOS是100，TRON是20，其它的公链就更低了。我算了算有一条公链24h交易量折算下来TPS为2，为什么为2，**因为它1s出两个块，每出一个块给节点发一次出块奖励**...
 
 
 
@@ -36,10 +36,11 @@
 
 
 
-1
+## 1
 
 
-  区块链改造组织信任
+**区块链改造组织信任**
+
 https://mp.weixin.qq.com/s/ue9WIAfe3SBqDux33_ak-w
 
 
@@ -54,9 +55,9 @@ https://mp.weixin.qq.com/s/ue9WIAfe3SBqDux33_ak-w
 
 
 
-2
+## 2
 
-Facebook Libra架构设计这么荒谬，凭什么还要坚持发行
+**Facebook Libra架构设计这么荒谬，凭什么还要坚持发行**
 
 https://mp.weixin.qq.com/s/MCQaihShJKKFm2EsRc6myQ
 
@@ -72,11 +73,12 @@ https://mp.weixin.qq.com/s/MCQaihShJKKFm2EsRc6myQ
 
 
 
-3
+## 3
 
 
 
-  区块链安全入门笔记(完结篇) | 慢雾科普
+**区块链安全入门笔记(完结篇) | 慢雾科普**
+
 https://mp.weixin.qq.com/s/Qi0zqE5D5aWWxGpMKLZ_ag
 
 
@@ -93,9 +95,9 @@ https://mp.weixin.qq.com/s/Qi0zqE5D5aWWxGpMKLZ_ag
 
 
 
-4
+## 4
 
-为什么 ENS 不创建更多顶级域：我们是在对全球域名空间负责
+**为什么 ENS 不创建更多顶级域：我们是在对全球域名空间负责**
 
 https://mp.weixin.qq.com/s/TKW4ig2BpsZABgsecYxeCQ
 
@@ -111,11 +113,12 @@ https://mp.weixin.qq.com/s/TKW4ig2BpsZABgsecYxeCQ
 
 
 
-5
+## 5
 
 
 
-  以太坊经济模型“廉颇老矣”，公链新模型花落谁家
+**以太坊经济模型“廉颇老矣”，公链新模型花落谁家**
+
 https://mp.weixin.qq.com/s/z2bdFxXDM2Ak-fk_WcsYYA
 
 
@@ -140,6 +143,7 @@ https://mp.weixin.qq.com/s/z2bdFxXDM2Ak-fk_WcsYYA
 
 
 ***
+
 我们很喜欢区块链媒体制作的《预言家周报》。区块链世界不只有预言家发言，也需要更多的“村民”发言。
 
 **村民手账** 为 `BTCU` 社区热爱学习的朋友们而准备。社区的学习者们会推荐自己最近阅读的优质文章，附上推荐理由。这一切的目的是为了督促自我学习并提倡分享精神。文章不对时效性作出限制，更注重入门者的学习效果。
@@ -150,5 +154,18 @@ https://mp.weixin.qq.com/s/z2bdFxXDM2Ak-fk_WcsYYA
 
 如果你也感兴趣区块链世界的村民们在关心些什么，不妨关注村民手账。
 
-![btcu](../images/0001.webp)
-![wechat](../images/0002.webp)
+***
+30所高校区块链协会负责人联合发起  
+汇聚高校区块链技术力量  
+
+**扫码加小助手入交流群**
+
+入群有KYC，仅对学生开放
+
+企业合作请表明来意
+
+
+<img src="../images/0001.webp" width = "540" height = "270" div align=center />
+
+
+<img src="../images/0002.webp" width = "540" height = "540" div align=center />
