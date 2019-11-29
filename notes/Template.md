@@ -15,5 +15,5 @@
 
 如果你也感兴趣区块链世界的村民们在关心些什么，不妨关注村民手账。
 
-![btcu](/images/0001.webp)
-![wechat](/images/0002.webp)
+![btcu](../images/0001.webp)
+![wechat](../images/0002.webp)
