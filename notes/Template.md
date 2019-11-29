@@ -27,8 +27,8 @@
 企业合作请表明来意
 
 
-<img src="../images/0001.webp" width = "540" height = "270" div align=right />
+<img src="../images/0001.webp" width = "540" height = "270" div align=center />
 
 
-<img src="../images/0002.webp" width = "540" height = "540" div align=right />
+<img src="../images/0002.webp" width = "540" height = "540" div align=center />
 
